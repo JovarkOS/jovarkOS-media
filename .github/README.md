@@ -1,4 +1,4 @@
-# media
+# JovarkOS Digital Media
 
 Media files for JovarkOS and its related projects
 
